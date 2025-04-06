@@ -17,7 +17,8 @@ social-network-links:
   rss: true
 
 # --- Personalization ---
-avatar: "/assets/profile.jpg"  # Optional: upload your profile pic to that path
+avatar: "https://raw.githubusercontent.com/SamsonOrodele/samsonorodele.github.io/main/assets/profile.jpg"
+  # profile pic
 favicon: "/favicon.ico"            # Optional: set if you have a favicon
 keywords: "Data Analyst, Power BI, Excel, SQL, Python, Portfolio"
 footer-text: "© 2025 Samson Orodele"
