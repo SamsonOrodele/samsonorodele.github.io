@@ -3,28 +3,24 @@ title: "Samson Orodele"
 subtitle: "Data Analyst | Power BI | SQL | Excel | Python"
 description: "Turning data into insights to drive smart business decisions"
 author: "Samson Orodele"
-email: your.email@example.com
+email: "your.email@example.com"  # Replace with your real email
 url: "https://samsonorodele.github.io"
-baseurl: ""  # Leave blank for GitHub Pages
+baseurl: ""
 repository: "SamsonOrodele/SamsonOrodele.github.io"
 lang: "en"
 
 # --- Social links ---
 social-network-links:
-  github: SamsonOrodele
-  linkedin: your-linkedin-url  # <-- Replace with actual LinkedIn
-  email: your.email@example.com
+  github: "SamsonOrodele"
+  linkedin: "https://www.linkedin.com/in/your-profile"  # Replace with actual URL
+  email: "your.email@example.com"
   rss: true
 
 # --- Personalization ---
 avatar: "https://raw.githubusercontent.com/SamsonOrodele/samsonorodele.github.io/main/assets/profile.jpg"
-  # profile pic
-favicon: "/favicon.ico"            # Optional: set if you have a favicon
+favicon: "/favicon.ico"
 keywords: "Data Analyst, Power BI, Excel, SQL, Python, Portfolio"
 footer-text: "© 2025 Samson Orodele"
-
-# --- Google Analytics (optional) ---
-# google_analytics: G-XXXXXXXXXX
 
 # --- Build settings ---
 markdown: kramdown
@@ -43,8 +39,14 @@ navbar-links:
   Projects:
     - "Oracle SQL Project": "https://github.com/SamsonOrodele/transportation-management"
     - "Power BI Analysis": "https://github.com/SamsonOrodele/Vrinda-Store-Data-Analysis"
-    - "10Alytics Reporting": "https://github.com/SamsonOrodele"
-  Resume: "assets/resume.pdf"  # Upload your resume here
+    - "10Alytics Reporting": "https://github.com/SamsonOrodele/10alytics-reporting"  # Assuming a specific repo; adjust if needed
+    - "Project 4": "https://github.com/SamsonOrodele/project-4"  # Placeholder; replace with real repo
+    - "Project 5": "https://github.com/SamsonOrodele/project-5"  # Placeholder
+    - "Project 6": "https://github.com/SamsonOrodele/project-6"  # Placeholder
+    - "Project 7": "https://github.com/SamsonOrodele/project-7"  # Placeholder
+    - "Project 8": "https://github.com/SamsonOrodele/project-8"  # Placeholder
+    - "Project 9": "https://github.com/SamsonOrodele/project-9"  # Placeholder
+  Resume: "assets/resume.pdf"
   Contact: "contact"
 
 # --- Plugins ---
