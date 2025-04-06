@@ -96,18 +96,15 @@ timezone: Europe/London
 
 # --- Navigation bar links ---
 navbar-links:
-  About: "aboutme"
+  About: "about"
   Projects:
-    - "Transport Management System": "https://github.com/SamsonOrodele/Travel_Company_Database"
-    - "Vrinda Store Analysis": "https://github.com/SamsonOrodele/Vrinda-Store-Data-Analysis"
-    - "10Alytics Reporting": "https://github.com/SamsonOrodele/10alytics-reporting"
-    - "Data Cleaning Pipeline": "https://github.com/SamsonOrodele/data-cleaning-pipeline"  # Replace with real repo
-    - "Sales Forecast Model": "https://github.com/SamsonOrodele/sales-forecast-model"    # Replace
-    - "Customer Segmentation": "https://github.com/SamsonOrodele/customer-segmentation"  # Replace
-    - "Excel Automation Tool": "https://github.com/SamsonOrodele/excel-automation-tool"  # Replace
-    - "SQL Inventory System": "https://github.com/SamsonOrodele/sql-inventory-system"    # Replace
-    - "Power BI Retail Dashboard": "https://github.com/SamsonOrodele/power-bi-retail-dashboard"  # Replace
-  Resume: "assets/resume.pdf"
+    - Transport Management System: "https://github.com/SamsonOrodele/Travel_Company_Database"
+    - Breast Cancer Classification: "https://github.com/SamsonOrodele/Breast_Cancer_Classification"
+    - M1 Motorway Traffic Analysis: "https://github.com/SamsonOrodele/M1-Motorway-Traffic-Analysis"
+    - German Credit Risk Analysis: "https://github.com/SamsonOrodele/Explainable_AI"
+    - Data Professionals Survey Dashboard: "https://github.com/SamsonOrodele/Data_Professional_Survey_PowerBI"
+    - Excel Data Analysis Projects: "https://github.com/SamsonOrodele/Excel-Data-Analysis-Projects"
+  Resume: "resume"
   Contact: "contact"
 
 # --- Plugins ---
