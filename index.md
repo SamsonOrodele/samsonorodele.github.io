@@ -32,14 +32,15 @@ Welcome to my portfolio. I’m a dedicated Data Analyst skilled in **Power BI**,
     <h3>Breast Cancer Classification</h3>
     <p>Developed six machine learning models to classify breast histology images (5547 images, 50x50x3) as Invasive Ductal Carcinoma (IDC) or non-IDC, achieving early detection potential. Models included three CNN variants, MobileNetV2, MLP, and SVM, with CNN3 reaching a test accuracy of 81%.</p>
     <p><i>Python, TensorFlow, Scikit-learn, Pandas, Matplotlib</i></p>
-    <img src="/assets/breast_cancer.jpeg" alt="Breast Cancer Classification Models" style="max-width: 100%; height: auto; border-radius: 8px; margin-top: 10px;">
+    <img src="/assets/breast_cancer.jpg" alt="Breast Cancer Classification Models" style="max-width: 100%; height: auto; border-radius: 8px; margin-top: 10px;">
     <a href="https://github.com/SamsonOrodele/Breast_Cancer_Classification" target="_blank">View Project</a>
   </div>
   <div class="project-card">
-    <h3>10Alytics Reporting</h3>
-    <p>Custom reports and dashboards for data-driven decisions using <strong>Power BI</strong>, <strong>Excel</strong>, and <strong>SQL</strong>.</p>
-    <p><i>Power BI, Excel, SQL</i></p>
-    <a href="https://github.com/SamsonOrodele/10alytics-reporting" target="_blank">View Project</a>
+    <h3>M1 Motorway Traffic Analysis</h3>
+    <p>Analyzed traffic data from the M1 motorway (3402 observations over 3 weeks) using stratified random sampling to study speed variations by time and day. Visualizations like boxplots and histograms revealed an average speed of 64.07 mph, with higher speeds on weekends.</p>
+    <p><i>Python, Pandas, Matplotlib, Seaborn, Excel</i></p>
+    <img src="/assets/traffic.jpg" alt="M1 Motorway Traffic Analysis Visualizations" style="max-width: 100%; height: auto; border-radius: 8px; margin-top: 10px;">
+    <a href="https://github.com/SamsonOrodele/M1-Motorway-Traffic-Analysis" target="_blank">View Project</a>
   </div>
   <div class="project-card">
     <h3>Data Cleaning Pipeline</h3>
