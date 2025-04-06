@@ -32,7 +32,7 @@ Welcome to my portfolio. I’m a dedicated Data Analyst skilled in **Power BI**,
     <h3>Breast Cancer Classification</h3>
     <p>Developed six machine learning models to classify breast histology images (5547 images, 50x50x3) as Invasive Ductal Carcinoma (IDC) or non-IDC, achieving early detection potential. Models included three CNN variants, MobileNetV2, MLP, and SVM, with CNN3 reaching a test accuracy of 81%.</p>
     <p><i>Python, TensorFlow, Scikit-learn, Pandas, Matplotlib</i></p>
-    <img src="/assets/breast_cancer.jpg" alt="Breast Cancer Classification Models" style="max-width: 100%; height: auto; border-radius: 8px; margin-top: 10px;">
+    <img src="/assets/breast_cancer.jpeg" alt="Breast Cancer Classification Models" style="max-width: 100%; height: auto; border-radius: 8px; margin-top: 10px;">
     <a href="https://github.com/SamsonOrodele/Breast_Cancer_Classification" target="_blank">View Project</a>
   </div>
   <div class="project-card">
