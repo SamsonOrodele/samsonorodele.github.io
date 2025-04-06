@@ -1,31 +1,35 @@
 ---
-layout: default
-title: Samson Orodele | Data Analyst Portfolio
+layout: home
+title: "Samson Orodele | Data Analyst"
 ---
 
 # 👋 Hi, I'm **Samson Orodele**
 
-I’m a data analyst passionate about transforming raw data into actionable insights. With experience in Power BI, SQL, Excel, and Python, I bring clarity to complexity and help organizations make informed decisions.
+I am a passionate **Data Analyst** specializing in **Power BI**, **SQL**, **Excel**, and **Python**. I leverage my skills to turn raw data into actionable insights, driving smarter decisions in business. I am constantly exploring new techniques in data analysis, machine learning, and visualization to solve complex problems and optimize outcomes.
 
 ## 🔧 Skills & Tools
-- Excel, Power BI, SQL, Python, R
-- Data Visualization & Reporting
-- Database Management & ETL
-- Oracle SQL, Tableau, GitHub
+- **Power BI**, **Excel**, **SQL**, **Python**, **R**
+- Data Visualization, Reporting, Dashboard Creation
+- Database Management, ETL Processes
+- Data Cleaning & Analysis, Automation
 
 ## 📂 Featured Projects
 
-- [Oracle Transport System (SQL Project)](https://github.com/SamsonOrodele/transportation-management)  
-  Designed and queried a transportation management database using Oracle SQL. Includes schema design, inserts, and advanced queries.
+- [**Oracle Transport System (SQL Project)**](https://github.com/SamsonOrodele/transportation-management)  
+  Designed a **transportation management system** using **Oracle SQL**, featuring schema design, data inserts, and advanced queries.
 
-- [Vrinda Store Sales Analysis (Excel & Power BI)](https://github.com/SamsonOrodele/Vrinda-Store-Data-Analysis)  
-  Created an interactive dashboard analyzing product categories, regions, and customer behavior using Excel PivotTables and Power BI.
+- [**Vrinda Store Sales Analysis (Power BI & Excel)**](https://github.com/SamsonOrodele/Vrinda-Store-Data-Analysis)  
+  Created an **interactive dashboard** analyzing sales trends, customer behavior, and product performance using **Excel** PivotTables and **Power BI**.
 
-- [10Alytics Reporting (Ongoing)](https://github.com/SamsonOrodele)  
-  Supporting data-driven decisions using structured reports and dashboards. Includes custom visualizations and data cleaning.
+- [**10Alytics Reporting (Ongoing)**](https://github.com/SamsonOrodele)  
+  Assisting in data-driven decision-making by creating **custom reports** and dashboards using Excel, Power BI, and **SQL**.
 
 ## 📫 Contact
 
+- [LinkedIn](your-linkedin-url)  
 - [GitHub](https://github.com/SamsonOrodele)
-- [LinkedIn](#) ← (drop your LinkedIn and I’ll update it)
-- Email: samorodele@gmail.com
+- Email: your.email@example.com
+
+---
+
+> "Data is the new oil, and I’m here to refine it."
