@@ -1,7 +1,7 @@
 # --- Site settings ---
 title: "Samson Orodele"
-subtitle: "Data Analyst | Power BI | SQL | Excel | Python"
-description: "Turning data into insights to drive smart business decisions"
+subtitle: "Data Analyst | Transforming Insights into Impact"
+description: "Portfolio of Samson Orodele, a Data Analyst specializing in Power BI, SQL, Excel, and Python."
 author: "Samson Orodele"
 email: "your.email@example.com"  # Replace with your real email
 url: "https://samsonorodele.github.io"
@@ -12,15 +12,79 @@ lang: "en"
 # --- Social links ---
 social-network-links:
   github: "SamsonOrodele"
-  linkedin: "https://www.linkedin.com/in/your-profile"  # Replace with actual URL
+  linkedin: "https://www.linkedin.com/in/your-profile"  # Replace with your LinkedIn URL
   email: "your.email@example.com"
-  rss: true
+  rss: false
 
 # --- Personalization ---
-avatar: "https://raw.githubusercontent.com/SamsonOrodele/samsonorodele.github.io/main/assets/profile.jpg"
-favicon: "/favicon.ico"
-keywords: "Data Analyst, Power BI, Excel, SQL, Python, Portfolio"
-footer-text: "© 2025 Samson Orodele"
+avatar: "/assets/profile.jpg"  # Relative path to avoid conflicts
+favicon: "/assets/favicon.ico"  # Add if you have one
+keywords: "Data Analyst, Power BI, SQL, Excel, Python, Data Visualization"
+footer-text: "© 2025 Samson Orodele | Crafted with Precision"
+
+# --- Theme settings ---
+remote_theme: "daattali/beautiful-jekyll"
+theme_color: "#1a2529"  # Navy background
+navbar-col: "#1a2529"   # Navy navbar
+navbar-text-col: "#f5f5f5"  # Soft white text
+navbar-border-col: "#d4af37"  # Gold border
+page-col: "#ffffff"  # White content background
+text-col: "#2c3e50"  # Dark gray text
+link-col: "#d4af37"  # Gold links
+hover-col: "#b8860b"  # Darker gold on hover
+
+# --- Custom CSS ---
+beautifuljekyll_custom_css: |
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Roboto:wght@300;400&display=swap');
+  body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+  }
+  h1, h2, h3 {
+    font-family: 'Playfair Display', serif;
+    color: #1a2529;
+  }
+  .navbar-custom {
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  .post-title, .post-subtitle {
+    color: #1a2529;
+  }
+  .project-card {
+    background: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 20px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  .project-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  }
+  .project-card a {
+    color: #d4af37;
+    text-decoration: none;
+  }
+  .project-card a:hover {
+    color: #b8860b;
+    text-decoration: underline;
+  }
+  #back-to-top {
+    display: none !important;
+  }
+  .navbar-toggle {
+    display: none !important; /* Hide mobile menu toggle */
+  }
+  .navbar-custom .navbar-nav {
+    display: flex !important;
+    flex-direction: row !important;
+  }
+  @media (max-width: 767px) {
+    .navbar-custom .navbar-nav {
+      flex-direction: row !important;
+      flex-wrap: wrap !important;
+    }
+  }
 
 # --- Build settings ---
 markdown: kramdown
@@ -30,22 +94,19 @@ paginate: 5
 paginate_path: "/page:num/"
 timezone: Europe/London
 
-# --- Theme settings ---
-remote_theme: daattali/beautiful-jekyll
-
 # --- Navigation bar links ---
 navbar-links:
-  About Me: "aboutme"
+  About: "aboutme"
   Projects:
-    - "Oracle SQL Project": "https://github.com/SamsonOrodele/transportation-management"
-    - "Power BI Analysis": "https://github.com/SamsonOrodele/Vrinda-Store-Data-Analysis"
-    - "10Alytics Reporting": "https://github.com/SamsonOrodele/10alytics-reporting"  # Assuming a specific repo; adjust if needed
-    - "Project 4": "https://github.com/SamsonOrodele/project-4"  # Placeholder; replace with real repo
-    - "Project 5": "https://github.com/SamsonOrodele/project-5"  # Placeholder
-    - "Project 6": "https://github.com/SamsonOrodele/project-6"  # Placeholder
-    - "Project 7": "https://github.com/SamsonOrodele/project-7"  # Placeholder
-    - "Project 8": "https://github.com/SamsonOrodele/project-8"  # Placeholder
-    - "Project 9": "https://github.com/SamsonOrodele/project-9"  # Placeholder
+    - "Transport Management System": "https://github.com/SamsonOrodele/Travel_Company_Database"
+    - "Vrinda Store Analysis": "https://github.com/SamsonOrodele/Vrinda-Store-Data-Analysis"
+    - "10Alytics Reporting": "https://github.com/SamsonOrodele/10alytics-reporting"
+    - "Data Cleaning Pipeline": "https://github.com/SamsonOrodele/data-cleaning-pipeline"  # Replace with real repo
+    - "Sales Forecast Model": "https://github.com/SamsonOrodele/sales-forecast-model"    # Replace
+    - "Customer Segmentation": "https://github.com/SamsonOrodele/customer-segmentation"  # Replace
+    - "Excel Automation Tool": "https://github.com/SamsonOrodele/excel-automation-tool"  # Replace
+    - "SQL Inventory System": "https://github.com/SamsonOrodele/sql-inventory-system"    # Replace
+    - "Power BI Retail Dashboard": "https://github.com/SamsonOrodele/power-bi-retail-dashboard"  # Replace
   Resume: "assets/resume.pdf"
   Contact: "contact"
 
