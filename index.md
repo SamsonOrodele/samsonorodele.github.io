@@ -1,20 +1,20 @@
 ---
 layout: home
-title: "Samson Orodele | Data Analyst"
+title: "Samson Orodele | Data Scientist & Analyst"
 ---
 
 # Samson Orodele
 
-*Data Analyst | Transforming Insights into Impact*
+*Data Scientist & Analyst | Driving Impact Through Data*
 
-Welcome to my portfolio. I’m a dedicated Data Analyst skilled in **Power BI**, **SQL**, **Excel**, and **Python**, passionate about turning complex data into clear, actionable insights. Explore my projects below to see how I drive value through analysis and visualization.
+I’m a versatile data professional with a passion for unlocking the power of data through **database management**, **data analysis**, **machine learning**, and **data science**. Skilled in designing robust databases, uncovering actionable insights, and building predictive models, I transform complex datasets into strategic solutions. Explore my projects below to see how I deliver value across diverse domains.
 
 ---
 
 ## Expertise
 
-- **Tools**: Power BI, Excel, SQL, Python, R
-- **Skills**: Data Visualization, Dashboard Design, ETL, Database Management, Automation
+- **Tools**: Power BI, Excel, Oracle SQL, MySQL, Python, R, TensorFlow, Scikit-learn
+- **Skills**: Database Design, Data Visualization, Machine Learning, Statistical Modeling, ETL, Automation
 
 ---
 
