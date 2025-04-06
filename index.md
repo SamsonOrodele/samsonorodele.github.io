@@ -1,6 +1,8 @@
 ---
 layout: home
 title: "Samson Orodele | Data Scientist & Analyst"
+custom_head: |
+  <link rel="stylesheet" href="/assets/css/custom.css">
 ---
 
 # Samson Orodele
