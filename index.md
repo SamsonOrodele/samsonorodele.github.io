@@ -24,47 +24,56 @@ Welcome to my portfolio. I’m a dedicated Data Analyst skilled in **Power BI**,
   <div class="project-card">
     <h3>Transport Management System</h3>
     <p>A full-scale <strong>Oracle SQL</strong> relational database for a transport company, featuring schema design, data integrity constraints, and over 100 sample records across 10 tables for employees, routes, vehicles, tickets, and more.</p>
+    <p><i>Oracle SQL, SQL Developer</i></p>
     <img src="/assets/transport_company.jpg" alt="Transport Management System Database" style="max-width: 100%; height: auto; border-radius: 8px; margin-top: 10px;">
     <a href="https://github.com/SamsonOrodele/Travel_Company_Database" target="_blank">View Project</a>
   </div>
   <div class="project-card">
     <h3>Vrinda Store Analysis</h3>
     <p>An interactive <strong>Power BI</strong> dashboard analyzing sales trends and customer behavior, enhanced with <strong>Excel</strong> PivotTables.</p>
+    <p><i>Power BI, Excel</i></p>
     <a href="https://github.com/SamsonOrodele/Vrinda-Store-Data-Analysis" target="_blank">View Project</a>
   </div>
   <div class="project-card">
     <h3>10Alytics Reporting</h3>
     <p>Custom reports and dashboards for data-driven decisions using <strong>Power BI</strong>, <strong>Excel</strong>, and <strong>SQL</strong>.</p>
+    <p><i>Power BI, Excel, SQL</i></p>
     <a href="https://github.com/SamsonOrodele/10alytics-reporting" target="_blank">View Project</a>
   </div>
   <div class="project-card">
     <h3>Data Cleaning Pipeline</h3>
     <p>A <strong>Python</strong> script for cleaning and preprocessing datasets for analysis.</p>
+    <p><i>Python, Pandas</i></p>
     <a href="https://github.com/SamsonOrodele/data-cleaning-pipeline" target="_blank">View Project</a>
   </div>
   <div class="project-card">
     <h3>Sales Forecast Model</h3>
     <p>A predictive model built with <strong>Python</strong> to forecast sales trends.</p>
+    <p><i>Python, Scikit-learn</i></p>
     <a href="https://github.com/SamsonOrodele/sales-forecast-model" target="_blank">View Project</a>
   </div>
   <div class="project-card">
     <h3>Customer Segmentation</h3>
     <p>Clustered customer data using <strong>Python</strong> and visualized results in <strong>Power BI</strong>.</p>
+    <p><i>Python, Power BI</i></p>
     <a href="https://github.com/SamsonOrodele/customer-segmentation" target="_blank">View Project</a>
   </div>
   <div class="project-card">
     <h3>Excel Automation Tool</h3>
     <p>A <strong>VBA</strong> script to automate repetitive <strong>Excel</strong> tasks.</p>
+    <p><i>Excel, VBA</i></p>
     <a href="https://github.com/SamsonOrodele/excel-automation-tool" target="_blank">View Project</a>
   </div>
   <div class="project-card">
     <h3>SQL Inventory System</h3>
     <p>A database system for inventory tracking using <strong>SQL</strong> queries.</p>
+    <p><i>SQL</i></p>
     <a href="https://github.com/SamsonOrodele/sql-inventory-system" target="_blank">View Project</a>
   </div>
   <div class="project-card">
     <h3>Power BI Retail Dashboard</h3>
     <p>A retail performance dashboard with interactive filters in <strong>Power BI</strong>.</p>
+    <p><i>Power BI</i></p>
     <a href="https://github.com/SamsonOrodele/power-bi-retail-dashboard" target="_blank">View Project</a>
   </div>
 </div>
