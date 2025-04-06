@@ -43,10 +43,11 @@ Welcome to my portfolio. I’m a dedicated Data Analyst skilled in **Power BI**,
     <a href="https://github.com/SamsonOrodele/M1-Motorway-Traffic-Analysis" target="_blank">View Project</a>
   </div>
   <div class="project-card">
-    <h3>Data Cleaning Pipeline</h3>
-    <p>A <strong>Python</strong> script for cleaning and preprocessing datasets for analysis.</p>
-    <p><i>Python, Pandas</i></p>
-    <a href="https://github.com/SamsonOrodele/data-cleaning-pipeline" target="_blank">View Project</a>
+    <h3>German Credit Risk Analysis</h3>
+    <p>Built <strong>explainable AI</strong> models (MLP and CNN) for credit risk classification on the German Credit Dataset, using <strong>SMOTE</strong> for data balance and <strong>SHAP</strong> for global feature importance. Counterfactual explanations clarified individual decisions, with CNN achieving 78.21% accuracy.</p>
+    <p><i>Python, TensorFlow, SHAP, SMOTE, Pandas</i></p>
+    <img src="/assets/XAI.png" alt="German Credit Risk Analysis Visualizations" style="max-width: 100%; height: auto; border-radius: 8px; margin-top: 10px;">
+    <a href="https://github.com/SamsonOrodele/Explainable_AI" target="_blank">View Project</a>
   </div>
   <div class="project-card">
     <h3>Sales Forecast Model</h3>
