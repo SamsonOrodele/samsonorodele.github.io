@@ -98,12 +98,12 @@ timezone: Europe/London
 navbar-links:
   About: "about"
   Projects:
-    - Transport Management System: "https://github.com/SamsonOrodele/Travel_Company_Database"
-    - Breast Cancer Classification: "https://github.com/SamsonOrodele/Breast_Cancer_Classification"
-    - M1 Motorway Traffic Analysis: "https://github.com/SamsonOrodele/M1-Motorway-Traffic-Analysis"
-    - German Credit Risk Analysis: "https://github.com/SamsonOrodele/Explainable_AI"
-    - Data Professionals Survey Dashboard: "https://github.com/SamsonOrodele/Data_Professional_Survey_PowerBI"
-    - Excel Data Analysis Projects: "https://github.com/SamsonOrodele/Excel-Data-Analysis-ProjectsProjects"
+    - Transport Management System: "#transport-management-system"
+    - Breast Cancer Classification: "#breast-cancer-classification"
+    - M1 Motorway Traffic Analysis: "#m1-motorway-traffic-analysis"
+    - German Credit Risk Analysis: "#german-credit-risk-analysis"
+    - Data Professionals Survey Dashboard: "#data-professionals-survey-dashboard"
+    - Excel Data Analysis Projects: "#excel-data-analysis-projects"
   Resume: "resume"
   Contact: "contact"
 
