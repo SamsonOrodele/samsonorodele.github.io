@@ -11,7 +11,7 @@ I’m Samson Orodele, a data-driven professional with a Master’s in Data Scien
 ## Education
 - **MSc Data Science and Advanced Practice**  
   Northumbria University, Newcastle 
-  *Distinction, 2024*  
+   ,*2024*  
   Specialized in database design, machine learning, statistical modeling, deep learning and data visualization using SQL, Python, Tensorflow, R, and Power BI.
 
 - **B.Eng Chemical Engineering**  
