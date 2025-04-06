@@ -1,0 +1,109 @@
+/* Custom Purple Theme for Samson Orodele's Portfolio */
+
+/* Define CSS variables for reusability */
+:root {
+  --background-color: #F5F1FF; /* Light purple (lavender) */
+  --navbar-bg-color: #4B0082; /* Deep purple (indigo) */
+  --text-color: #2F0047; /* Dark plum */
+  --accent-color: #8A2BE2; /* Medium purple (violet) */
+  --hover-color: #DA70D6; /* Bright purple (orchid) */
+  --white: #FFFFFF; /* Pure white for contrast */
+}
+
+/* General page background and text */
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+/* Navbar */
+.navbar {
+  background-color: var(--navbar-bg-color) !important;
+}
+.navbar-brand,
+.navbar-nav .nav-link,
+.navbar-nav .dropdown-toggle {
+  color: var(--white) !important;
+}
+.navbar-nav .nav-link:hover,
+.navbar-nav .dropdown-toggle:hover {
+  color: var(--hover-color) !important;
+}
+.dropdown-menu {
+  background-color: var(--navbar-bg-color);
+  border: 1px solid var(--accent-color);
+}
+.dropdown-item {
+  color: var(--white);
+}
+.dropdown-item:hover {
+  background-color: var(--hover-color);
+  color: var(--white);
+}
+
+/* Links and buttons */
+a,
+.btn-link {
+  color: var(--accent-color);
+}
+a:hover,
+.btn-link:hover {
+  color: var(--hover-color);
+  text-decoration: underline;
+}
+.btn-primary,
+.btn-primary:visited {
+  background-color: var(--accent-color);
+  border-color: var(--accent-color);
+  color: var(--white);
+}
+.btn-primary:hover,
+.btn-primary:active {
+  background-color: var(--hover-color);
+  border-color: var(--hover-color);
+  color: var(--white);
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text-color);
+}
+
+/* Project cards */
+.project-card {
+  background-color: var(--white);
+  border: 1px solid var(--accent-color);
+  border-radius: 8px;
+  padding: 15px;
+}
+.project-card h3 {
+  color: var(--accent-color);
+}
+.project-card a {
+  color: var(--accent-color);
+}
+.project-card a:hover {
+  color: var(--hover-color);
+}
+
+/* Footer */
+footer {
+  background-color: var(--navbar-bg-color);
+  color: var(--white);
+}
+footer a {
+  color: var(--accent-color);
+}
+footer a:hover {
+  color: var(--hover-color);
+}
+
+/* Ensure scrollbar and smooth scrolling from index.md are preserved */
+nav .dropdown-menu {
+  max-height: 80vh;
+  overflow-y: auto;
+  scrollbar-width: thin;
+}
+html {
+  scroll-behavior: smooth;
+}
