@@ -24,7 +24,7 @@ Welcome to my portfolio. I’m a dedicated Data Analyst skilled in **Power BI**,
   <div class="project-card">
     <h3>Transport Management System</h3>
     <p>A full-scale <strong>Oracle SQL</strong> relational database for a transport company, featuring schema design, data integrity constraints, and over 100 sample records across 10 tables for employees, routes, vehicles, tickets, and more.</p>
-    <p><i>Oracle SQL, SQL Developer</i></p>
+    <p><i>Oracle SQL, SQL Developer, Database modelling, Relational databases,</i></p>
     <img src="/assets/transport_company.jpg" alt="Transport Management System Database" style="max-width: 100%; height: auto; border-radius: 8px; margin-top: 10px;">
     <a href="https://github.com/SamsonOrodele/Travel_Company_Database" target="_blank">View Project</a>
   </div>
