@@ -57,28 +57,11 @@ Welcome to my portfolio. I’m a dedicated Data Analyst skilled in **Power BI**,
     <a href="https://github.com/SamsonOrodele/Data_Professional_Survey_PowerBI" target="_blank">View Project</a>
   </div>
   <div class="project-card">
-    <h3>Customer Segmentation</h3>
-    <p>Clustered customer data using <strong>Python</strong> and visualized results in <strong>Power BI</strong>.</p>
-    <p><i>Python, Power BI</i></p>
-    <a href="https://github.com/SamsonOrodele/customer-segmentation" target="_blank">View Project</a>
-  </div>
-  <div class="project-card">
-    <h3>Excel Automation Tool</h3>
-    <p>A <strong>VBA</strong> script to automate repetitive <strong>Excel</strong> tasks.</p>
+    <h3>Excel Data Analysis Projects</h3>
+    <p>Developed a collection of <strong>Excel-based</strong> projects, including sales automation dashboards, health analytics, and financial modeling, to deliver actionable business insights through advanced data processing and dynamic visualizations.</p>
     <p><i>Excel, VBA</i></p>
-    <a href="https://github.com/SamsonOrodele/excel-automation-tool" target="_blank">View Project</a>
-  </div>
-  <div class="project-card">
-    <h3>SQL Inventory System</h3>
-    <p>A database system for inventory tracking using <strong>SQL</strong> queries.</p>
-    <p><i>SQL</i></p>
-    <a href="https://github.com/SamsonOrodele/sql-inventory-system" target="_blank">View Project</a>
-  </div>
-  <div class="project-card">
-    <h3>Power BI Retail Dashboard</h3>
-    <p>A retail performance dashboard with interactive filters in <strong>Power BI</strong>.</p>
-    <p><i>Power BI</i></p>
-    <a href="https://github.com/SamsonOrodele/power-bi-retail-dashboard" target="_blank">View Project</a>
+    <img src="/assets/excel_projects.png" alt="Excel Data Analysis Projects" style="max-width: 100%; height: auto; border-radius: 8px; margin-top: 10px;">
+    <a href="https://github.com/SamsonOrodele/Excel-Data-Analysis-Projects" target="_blank">View Project</a>
   </div>
 </div>
 
