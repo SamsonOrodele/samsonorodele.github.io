@@ -24,15 +24,16 @@ Welcome to my portfolio. I’m a dedicated Data Analyst skilled in **Power BI**,
   <div class="project-card">
     <h3>Transport Management System</h3>
     <p>A full-scale <strong>Oracle SQL</strong> relational database for a transport company, featuring schema design, data integrity constraints, and over 100 sample records across 10 tables for employees, routes, vehicles, tickets, and more.</p>
-    <p><i>Oracle SQL, SQL Developer, Database modelling, Relational databases,</i></p>
+    <p><i>Oracle SQL, SQL Developer, Database modelling, Relational databases</i></p>
     <img src="/assets/transport_company.jpg" alt="Transport Management System Database" style="max-width: 100%; height: auto; border-radius: 8px; margin-top: 10px;">
     <a href="https://github.com/SamsonOrodele/Travel_Company_Database" target="_blank">View Project</a>
   </div>
   <div class="project-card">
-    <h3>Vrinda Store Analysis</h3>
-    <p>An interactive <strong>Power BI</strong> dashboard analyzing sales trends and customer behavior, enhanced with <strong>Excel</strong> PivotTables.</p>
-    <p><i>Power BI, Excel</i></p>
-    <a href="https://github.com/SamsonOrodele/Vrinda-Store-Data-Analysis" target="_blank">View Project</a>
+    <h3>Breast Cancer Classification</h3>
+    <p>Developed six machine learning models to classify breast histology images (5547 images, 50x50x3) as Invasive Ductal Carcinoma (IDC) or non-IDC, achieving early detection potential. Models included three CNN variants, MobileNetV2, MLP, and SVM, with CNN3 reaching a test accuracy of 81%.</p>
+    <p><i>Python, TensorFlow, Scikit-learn, Pandas, Matplotlib</i></p>
+    <img src="/assets/breast_cancer.jpg" alt="Breast Cancer Classification Models" style="max-width: 100%; height: auto; border-radius: 8px; margin-top: 10px;">
+    <a href="https://github.com/SamsonOrodele/Breast_Cancer_Classification" target="_blank">View Project</a>
   </div>
   <div class="project-card">
     <h3>10Alytics Reporting</h3>
@@ -92,8 +93,8 @@ Welcome to my portfolio. I’m a dedicated Data Analyst skilled in **Power BI**,
 ## Get in Touch
 
 - [GitHub](https://github.com/SamsonOrodele)
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  <!-- Replace with real URL -->
-- Email: your.email@example.com
+- [LinkedIn](https://www.linkedin.com/in/samsonorodele)
+- Email: samorodele@gmail.com
 
 ---
 
