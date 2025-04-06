@@ -3,33 +3,88 @@ layout: home
 title: "Samson Orodele | Data Analyst"
 ---
 
-# 👋 Hi, I'm **Samson Orodele**
+# Samson Orodele
 
-I am a passionate **Data Analyst** specializing in **Power BI**, **SQL**, **Excel**, and **Python**. I leverage my skills to turn raw data into actionable insights, driving smarter decisions in business. I am constantly exploring new techniques in data analysis, machine learning, and visualization to solve complex problems and optimize outcomes.
+*Data Analyst | Transforming Insights into Impact*
 
-## 🔧 Skills & Tools
-- **Power BI**, **Excel**, **SQL**, **Python**, **R**
-- Data Visualization, Reporting, Dashboard Creation
-- Database Management, ETL Processes
-- Data Cleaning & Analysis, Automation
+Welcome to my portfolio. I’m a dedicated Data Analyst skilled in **Power BI**, **SQL**, **Excel**, and **Python**, passionate about turning complex data into clear, actionable insights. Explore my projects below to see how I drive value through analysis and visualization.
 
-## 📂 Featured Projects
+---
 
-- [**Oracle Transport System (SQL Project)**](https://github.com/SamsonOrodele/transportation-management)  
-  Designed a **transportation management system** using **Oracle SQL**, featuring schema design, data inserts, and advanced queries.
+## Expertise
 
-- [**Vrinda Store Sales Analysis (Power BI & Excel)**](https://github.com/SamsonOrodele/Vrinda-Store-Data-Analysis)  
-  Created an **interactive dashboard** analyzing sales trends, customer behavior, and product performance using **Excel** PivotTables and **Power BI**.
+- **Tools**: Power BI, Excel, SQL, Python, R
+- **Skills**: Data Visualization, Dashboard Design, ETL, Database Management, Automation
 
-- [**10Alytics Reporting (Ongoing)**](https://github.com/SamsonOrodele)  
-  Assisting in data-driven decision-making by creating **custom reports** and dashboards using Excel, Power BI, and **SQL**.
+---
 
-## 📫 Contact
+## Selected Works
 
-- [LinkedIn](your-linkedin-url)  
+<div class="project-grid">
+  <div class="project-card">
+    <h3>Transport Management System</h3>
+    <p>A full-scale <strong>Oracle SQL</strong> relational database for a transport company, featuring schema design, data integrity constraints, and over 100 sample records across 10 tables for employees, routes, vehicles, tickets, and more.</p>
+    <a href="https://github.com/SamsonOrodele/Travel_Company_Database" target="_blank">View Project</a>
+  </div>
+  <div class="project-card">
+    <h3>Vrinda Store Analysis</h3>
+    <p>An interactive <strong>Power BI</strong> dashboard analyzing sales trends and customer behavior, enhanced with <strong>Excel</strong> PivotTables.</p>
+    <a href="https://github.com/SamsonOrodele/Vrinda-Store-Data-Analysis" target="_blank">View Project</a>
+  </div>
+  <div class="project-card">
+    <h3>10Alytics Reporting</h3>
+    <p>Custom reports and dashboards for data-driven decisions using <strong>Power BI</strong>, <strong>Excel</strong>, and <strong>SQL</strong>.</p>
+    <a href="https://github.com/SamsonOrodele/10alytics-reporting" target="_blank">View Project</a>
+  </div>
+  <div class="project-card">
+    <h3>Data Cleaning Pipeline</h3>
+    <p>A <strong>Python</strong> script for cleaning and preprocessing datasets for analysis.</p>
+    <a href="https://github.com/SamsonOrodele/data-cleaning-pipeline" target="_blank">View Project</a>
+  </div>
+  <div class="project-card">
+    <h3>Sales Forecast Model</h3>
+    <p>A predictive model built with <strong>Python</strong> to forecast sales trends.</p>
+    <a href="https://github.com/SamsonOrodele/sales-forecast-model" target="_blank">View Project</a>
+  </div>
+  <div class="project-card">
+    <h3>Customer Segmentation</h3>
+    <p>Clustered customer data using <strong>Python</strong> and visualized results in <strong>Power BI</strong>.</p>
+    <a href="https://github.com/SamsonOrodele/customer-segmentation" target="_blank">View Project</a>
+  </div>
+  <div class="project-card">
+    <h3>Excel Automation Tool</h3>
+    <p>A <strong>VBA</strong> script to automate repetitive <strong>Excel</strong> tasks.</p>
+    <a href="https://github.com/SamsonOrodele/excel-automation-tool" target="_blank">View Project</a>
+  </div>
+  <div class="project-card">
+    <h3>SQL Inventory System</h3>
+    <p>A database system for inventory tracking using <strong>SQL</strong> queries.</p>
+    <a href="https://github.com/SamsonOrodele/sql-inventory-system" target="_blank">View Project</a>
+  </div>
+  <div class="project-card">
+    <h3>Power BI Retail Dashboard</h3>
+    <p>A retail performance dashboard with interactive filters in <strong>Power BI</strong>.</p>
+    <a href="https://github.com/SamsonOrodele/power-bi-retail-dashboard" target="_blank">View Project</a>
+  </div>
+</div>
+
+<style>
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  margin-top: 20px;
+}
+</style>
+
+---
+
+## Get in Touch
+
 - [GitHub](https://github.com/SamsonOrodele)
+- [LinkedIn](https://www.linkedin.com/in/your-profile)  <!-- Replace with real URL -->
 - Email: your.email@example.com
 
 ---
 
-> "Data is the new oil, and I’m here to refine it."
+*“Data is the canvas; insight is the art.”*
