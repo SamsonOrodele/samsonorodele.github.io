@@ -5,9 +5,7 @@ custom_head: |
   <link rel="stylesheet" href="/assets/css/custom.css">
 ---
 
-# Samson Orodele
-
-*Data Scientist & Analyst | Driving Impact Through Data*
+# Introduction
 
 I’m a versatile data professional with a passion for unlocking the power of data through **database management**, **data analysis**, **machine learning**, and **data science**. Skilled in designing robust databases, uncovering actionable insights, and building predictive models, I transform complex datasets into strategic solutions. Explore my projects below to see how I deliver value across diverse domains.
 
