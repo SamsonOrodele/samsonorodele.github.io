@@ -61,7 +61,7 @@ I’m a versatile data professional with a passion for unlocking the power of da
     <p>Developed a collection of <strong>Excel-based</strong> projects, including sales automation dashboards, health analytics, and financial modeling, to deliver actionable business insights through advanced data processing and dynamic visualizations.</p>
     <p><i>Excel, VBA</i></p>
     <img src="/assets/excel_projects.png" alt="Excel Data Analysis Projects" style="max-width: 100%; height: auto; border-radius: 8px; margin-top: 10px;">
-    <a href="https://github.com/SamsonOrodele/Excel-Data-Analysis-Projects" target="_blank">View Project</a>
+    <a href="https://github.com/SamsonOrodele/Excel-Data-Analysis-ProjectsProjects" target="_blank">View Project</a>
   </div>
 </div>
 
