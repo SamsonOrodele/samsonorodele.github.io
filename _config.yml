@@ -3,7 +3,7 @@ title: "Samson Orodele"
 subtitle: "Data Analyst | Transforming Insights into Impact"
 description: "Portfolio of Samson Orodele, a Data Analyst specializing in Power BI, SQL, Excel, and Python."
 author: "Samson Orodele"
-email: "your.email@example.com"  # Replace with your real email
+email: "samorodele@gmail.com" 
 url: "https://samsonorodele.github.io"
 baseurl: ""
 repository: "SamsonOrodele/SamsonOrodele.github.io"
@@ -12,13 +12,13 @@ lang: "en"
 # --- Social links ---
 social-network-links:
   github: "SamsonOrodele"
-  linkedin: "https://www.linkedin.com/in/your-profile"  # Replace with your LinkedIn URL
+  linkedin: "https://www.linkedin.com/in/your-profile" 
   email: "your.email@example.com"
   rss: false
 
 # --- Personalization ---
-avatar: "/assets/profile.jpg"  # Relative path to avoid conflicts
-favicon: "/assets/favicon.ico"  # Add if you have one
+avatar: "/assets/profile_photo.jpg"  # Relative path to avoid conflicts
+favicon: "/assets/favicon.ico"  
 keywords: "Data Analyst, Power BI, SQL, Excel, Python, Data Visualization"
 footer-text: "© 2025 Samson Orodele | Crafted with Precision"
 
