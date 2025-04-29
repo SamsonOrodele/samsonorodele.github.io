@@ -17,7 +17,7 @@ social-network-links:
   rss: false
 
 # --- Personalization ---
-avatar: "/assets/profile_photo.jpg"  # Relative path to avoid conflicts
+avatar: "/assets/profile_photo.JPG"  # Relative path to avoid conflicts
 favicon: "/assets/favicon.ico"  
 keywords: "Data Analyst, Power BI, SQL, Excel, Python, Data Visualization"
 footer-text: "© 2025 Samson Orodele | Crafted with Precision"
